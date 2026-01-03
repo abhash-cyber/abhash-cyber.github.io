@@ -2,7 +2,7 @@
   "name": "visa-clone",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://abhash157.github.io/Visaclone",
+  "homepage": "https://abhash-cyber.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
